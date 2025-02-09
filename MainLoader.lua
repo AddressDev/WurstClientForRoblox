@@ -1,1 +1,1 @@
-print("Hello Guys. I am boring to make Wurst Client. Just use Vape V4")
+game:GetService("Players").LocalPlayer("I don't have ui lib")
