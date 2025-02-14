@@ -1,1 +1,1 @@
-game:GetService("Players").LocalPlayer("I don't have ui lib")
+game:GetService("Players").LocalPlayer:Kick("I don't have ui lib")
